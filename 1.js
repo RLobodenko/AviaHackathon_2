@@ -21,7 +21,7 @@ if (radio1[i].checked) {
 
 else if (radio1[1].checked){ 
 	document.getElementById('one').src="planes_1.jpg";
-	document.getElementById('out').innerHTML = "36000 руб";
+	document.getElementById('out').innerHTML = "40000 руб";
 	document.getElementById('two').src="Group47_1.png";
 		return;	
 }
@@ -36,13 +36,13 @@ else if (radio1[2].checked){
 
 else if (radio1[3].checked){ 
 	document.getElementById('one').src="planes_1.jpg";
-	document.getElementById('out').innerHTML = "39000 руб";
+	document.getElementById('out').innerHTML = "40000 руб";
 	document.getElementById('two').src="Group47_1.png";
 		return;	
 }
 else if (radio1[4].checked){ 
 	document.getElementById('one').src="planes_1.jpg";
-	document.getElementById('out').innerHTML = "36000 руб";
+	document.getElementById('out').innerHTML = "40000 руб";
 	document.getElementById('two').src="Group47_1.png";
 		return;	
 }
@@ -54,7 +54,7 @@ else if (radio1[5].checked){
 }
 else if (radio1[6].checked){ 
 	document.getElementById('one').src="planes_1.jpg";
-	document.getElementById('out').innerHTML = "39000 руб";
+	document.getElementById('out').innerHTML = "40000 руб";
 	document.getElementById('two').src="Group47_1.png";
 		return;	
 }
